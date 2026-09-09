@@ -24,14 +24,15 @@ The scientific manuscript package is aligned with the frozen analysis and the Hu
 | Main figures | READY pending author visual sign-off | Figures 1–6 available; Figure 5 is the paired L006/L007 adjudication figure |
 | Main tables | READY pending author scientific sign-off | Tables 1–3 assembled with human-facing evidence categories |
 | Word manuscript | PASS pending author sign-off | `HUMAN_GENETICS_MANUSCRIPT_V1.docx` generated; 17 rendered pages visually checked; Figure 6 and its caption kept together |
+| Reproducibility repository | PASS pending release decision | Private repository created at https://github.com/seefreewind/amd-poag-antagonistic-pleiotropy; 104 files and approximately 42 MB uploaded |
 | Supplementary structure | READY | Online Resources 1–18 mapped without new analyses |
-| Statements and Declarations | PLACEHOLDERS REMAIN | Funding, competing interests, author contributions, acknowledgements, code URL and confirmations required |
+| Statements and Declarations | PLACEHOLDERS REMAIN | Funding, competing interests, author contributions, acknowledgements, public-release decision and confirmations required |
 
 ## Remaining blockers
 
 1. Complete author metadata, affiliations and corresponding-author information.
 2. Complete funding, competing interests, author contributions and acknowledgements.
-3. Add the public code repository URL and accession, if applicable.
+3. Confirm whether the private code repository should be made public and provide the final accession or release identifier, if required.
 4. Obtain author scientific confirmation of the Advanced AMD rescue provenance, phenotype definitions and sample-overlap wording.
 
 ## Recommended next action
