@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="465.408pt" height="325.059281pt" viewBox="0 0 465.408 325.059281" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-09T15:25:37.172497</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M -0 325.059281 
+L 465.408 325.059281 
+L 465.408 0 
+L -0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 56.448 54.904 
+L 251.477126 54.904 
+L 251.477126 39.762133 
+L 56.448 39.762133 
+z
+" clip-path="url(#pe1c16fe3fa)" style="fill: #2f6f8f; opacity: 0.13"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 62.298874 85.709867 
+L 245.626252 85.709867 
+" clip-path="url(#pe1c16fe3fa)" style="fill: none; stroke: #e0e5e8; stroke-width: 0.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 62.298874 111.816533 
+L 245.626252 111.816533 
+" clip-path="url(#pe1c16fe3fa)" style="fill: none; stroke: #e0e5e8; stroke-width: 0.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 62.298874 137.9232 
+L 245.626252 137.9232 
+" clip-path="url(#pe1c16fe3fa)" style="fill: none; stroke: #e0e5e8; stroke-width: 0.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 62.298874 164.029867 
+L 245.626252 164.029867 
+" clip-path="url(#pe1c16fe3fa)" style="fill: none; stroke: #e0e5e8; stroke-width: 0.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 62.298874 190.136533 
+L 245.626252 190.136533 
+" clip-path="url(#pe1c16fe3fa)" style="fill: none; stroke: #e0e5e8; stroke-width: 0.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 62.298874 216.2432 
+L 245.626252 216.2432 
+" clip-path="url(#pe1c16fe3fa)" style="fill: none; stroke: #e0e5e8; stroke-width: 0.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_7">
+    <path d="M 62.298874 242.349867 
+L 245.626252 242.349867 
+" clip-path="url(#pe1c16fe3fa)" style="fill: none; stroke: #e0e5e8; stroke-width: 0.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_8">
+    <path d="M 62.298874 268.456533 
+L 245.626252 268.456533 
+" clip-path="url(#pe1c16fe3fa)" style="fill: none; stroke: #e0e5e8; stroke-width: 0.6; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="fill: #2f6f8f; font: 700 11px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="64.249165" y="50.184473" transform="rotate(-0 64.249165 50.184473)">L006</text>
+   </g>
+   <g id="text_2">
+    <text style="fill: #6f7782; font: 700 7.4px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="64.249165" y="62.474933" transform="rotate(-0 64.249165 62.474933)">Evidence item</text>
+   </g>
+   <g id="text_3">
+    <text style="fill: #6f7782; font: 700 7.4px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="157.863146" y="62.474933" transform="rotate(-0 157.863146 62.474933)">Frozen result</text>
+   </g>
+   <g id="text_4">
+    <text style="font: 7.25px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="64.249165" y="80.275937" transform="rotate(-0 64.249165 80.275937)">Shared discovery</text>
+   </g>
+   <g id="text_5">
+    <text style="fill: #6f7782; font: 7.25px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="157.863146" y="80.275937" transform="rotate(-0 157.863146 80.275937)">3/3 target variants</text>
+   </g>
+   <g id="text_6">
+    <text style="font: 7.25px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="64.249165" y="106.380905" transform="rotate(-0 64.249165 106.380905)">Quantitative EUR LD</text>
+   </g>
+   <g id="text_7">
+    <text style="fill: #6f7782; font: 7.25px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="157.863146" y="106.380905" transform="rotate(-0 157.863146 106.380905)">737/738; PSD PASS</text>
+   </g>
+   <g id="text_8">
+    <text style="font: 7.25px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="64.249165" y="132.487572" transform="rotate(-0 64.249165 132.487572)">Unified SuSiE</text>
+   </g>
+   <g id="text_9">
+    <text style="fill: #6f7782; font: 7.25px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="157.863146" y="132.491536" transform="rotate(-0 157.863146 132.491536)">1 AMD + 3 POAG signals</text>
+   </g>
+   <g id="text_10">
+    <text style="font: 7.25px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="64.249165" y="158.594238" transform="rotate(-0 64.249165 158.594238)">Unified coloc PP4</text>
+   </g>
+   <g id="text_11">
+    <text style="fill: #6f7782; font: 7.25px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="157.863146" y="158.594238" transform="rotate(-0 157.863146 158.594238)">0.9756</text>
+   </g>
+   <g id="text_12">
+    <text style="font: 7.25px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="64.249165" y="184.702604" transform="rotate(-0 64.249165 184.702604)">Signal-level CS overlap</text>
+   </g>
+   <g id="text_13">
+    <text style="fill: #6f7782; font: 7.25px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="157.863146" y="184.700905" transform="rotate(-0 157.863146 184.700905)">n = 10</text>
+   </g>
+   <g id="text_14">
+    <text style="font: 7.25px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="64.249165" y="210.807572" transform="rotate(-0 64.249165 210.807572)">Harmonized direction</text>
+   </g>
+   <g id="text_15">
+    <text style="fill: #6f7782; font: 7.25px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="157.863146" y="210.807572" transform="rotate(-0 157.863146 210.807572)">OPPOSITE</text>
+   </g>
+   <g id="text_16">
+    <text style="font: 7.25px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="64.249165" y="236.914238" transform="rotate(-0 64.249165 236.914238)">LAVA local estimate</text>
+   </g>
+   <g id="text_17">
+    <text style="fill: #6f7782; font: 7.25px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="157.863146" y="236.914238" transform="rotate(-0 157.863146 236.914238)">rho = −0.332; P = 0.0942</text>
+   </g>
+   <g id="text_18">
+    <text style="font: 7.25px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="64.249165" y="262.978424" transform="rotate(-0 64.249165 262.978424)">Final evidence category</text>
+   </g>
+   <g id="text_19">
+    <text style="fill: #6f7782; font: 7.25px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(157.863146 259.188487)">Candidate opposite-effect</text>
+    <text style="fill: #6f7782; font: 7.25px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(157.863146 266.856721)">shared signal</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_3">
+    <path d="M 263.178874 54.904 
+L 458.208 54.904 
+L 458.208 39.762133 
+L 263.178874 39.762133 
+z
+" clip-path="url(#pce0c103ce7)" style="fill: #c8873e; opacity: 0.13"/>
+   </g>
+   <g id="line2d_9">
+    <path d="M 269.029748 85.709867 
+L 452.357126 85.709867 
+" clip-path="url(#pce0c103ce7)" style="fill: none; stroke: #e0e5e8; stroke-width: 0.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_10">
+    <path d="M 269.029748 111.816533 
+L 452.357126 111.816533 
+" clip-path="url(#pce0c103ce7)" style="fill: none; stroke: #e0e5e8; stroke-width: 0.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_11">
+    <path d="M 269.029748 137.9232 
+L 452.357126 137.9232 
+" clip-path="url(#pce0c103ce7)" style="fill: none; stroke: #e0e5e8; stroke-width: 0.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_12">
+    <path d="M 269.029748 164.029867 
+L 452.357126 164.029867 
+" clip-path="url(#pce0c103ce7)" style="fill: none; stroke: #e0e5e8; stroke-width: 0.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_13">
+    <path d="M 269.029748 190.136533 
+L 452.357126 190.136533 
+" clip-path="url(#pce0c103ce7)" style="fill: none; stroke: #e0e5e8; stroke-width: 0.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_14">
+    <path d="M 269.029748 216.2432 
+L 452.357126 216.2432 
+" clip-path="url(#pce0c103ce7)" style="fill: none; stroke: #e0e5e8; stroke-width: 0.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_15">
+    <path d="M 269.029748 242.349867 
+L 452.357126 242.349867 
+" clip-path="url(#pce0c103ce7)" style="fill: none; stroke: #e0e5e8; stroke-width: 0.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_16">
+    <path d="M 269.029748 268.456533 
+L 452.357126 268.456533 
+" clip-path="url(#pce0c103ce7)" style="fill: none; stroke: #e0e5e8; stroke-width: 0.6; stroke-linecap: square"/>
+   </g>
+   <g id="text_20">
+    <text style="fill: #c8873e; font: 700 11px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="270.980039" y="50.184473" transform="rotate(-0 270.980039 50.184473)">L007</text>
+   </g>
+   <g id="text_21">
+    <text style="fill: #6f7782; font: 700 7.4px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="270.980039" y="62.474933" transform="rotate(-0 270.980039 62.474933)">Evidence item</text>
+   </g>
+   <g id="text_22">
+    <text style="fill: #6f7782; font: 700 7.4px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="364.594019" y="62.474933" transform="rotate(-0 364.594019 62.474933)">Frozen result</text>
+   </g>
+   <g id="text_23">
+    <text style="font: 7.25px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="270.980039" y="80.275937" transform="rotate(-0 270.980039 80.275937)">Shared discovery</text>
+   </g>
+   <g id="text_24">
+    <text style="fill: #6f7782; font: 7.25px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="364.594019" y="80.275937" transform="rotate(-0 364.594019 80.275937)">3/3 target variants</text>
+   </g>
+   <g id="text_25">
+    <text style="font: 7.25px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="270.980039" y="106.380905" transform="rotate(-0 270.980039 106.380905)">Quantitative EUR LD</text>
+   </g>
+   <g id="text_26">
+    <text style="fill: #6f7782; font: 7.25px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="364.594019" y="106.380905" transform="rotate(-0 364.594019 106.380905)">720/723; PSD PASS</text>
+   </g>
+   <g id="text_27">
+    <text style="font: 7.25px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="270.980039" y="132.487572" transform="rotate(-0 270.980039 132.487572)">Unified SuSiE</text>
+   </g>
+   <g id="text_28">
+    <text style="fill: #6f7782; font: 7.25px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="364.594019" y="132.491536" transform="rotate(-0 364.594019 132.491536)">3 AMD + 1 POAG signal</text>
+   </g>
+   <g id="text_29">
+    <text style="font: 7.25px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="270.980039" y="158.594238" transform="rotate(-0 270.980039 158.594238)">Unified coloc PP4</text>
+   </g>
+   <g id="text_30">
+    <text style="fill: #6f7782; font: 7.25px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="364.594019" y="158.594238" transform="rotate(-0 364.594019 158.594238)">0.9678</text>
+   </g>
+   <g id="text_31">
+    <text style="font: 7.25px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="270.980039" y="184.702604" transform="rotate(-0 270.980039 184.702604)">Signal-level CS overlap</text>
+   </g>
+   <g id="text_32">
+    <text style="fill: #6f7782; font: 7.25px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="364.594019" y="184.700905" transform="rotate(-0 364.594019 184.700905)">n = 3</text>
+   </g>
+   <g id="text_33">
+    <text style="font: 7.25px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="270.980039" y="210.807572" transform="rotate(-0 270.980039 210.807572)">Harmonized direction</text>
+   </g>
+   <g id="text_34">
+    <text style="fill: #6f7782; font: 7.25px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="364.594019" y="210.807572" transform="rotate(-0 364.594019 210.807572)">CONCORDANT</text>
+   </g>
+   <g id="text_35">
+    <text style="font: 7.25px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="270.980039" y="236.914238" transform="rotate(-0 270.980039 236.914238)">LAVA local estimate</text>
+   </g>
+   <g id="text_36">
+    <text style="fill: #6f7782; font: 7.25px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="364.594019" y="236.914238" transform="rotate(-0 364.594019 236.914238)">rho = 0.067; P = 0.6396</text>
+   </g>
+   <g id="text_37">
+    <text style="font: 7.25px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="270.980039" y="262.978424" transform="rotate(-0 270.980039 262.978424)">Final evidence category</text>
+   </g>
+   <g id="text_38">
+    <text style="fill: #6f7782; font: 7.25px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(364.594019 259.188487)">Concordant shared-signal</text>
+    <text style="fill: #6f7782; font: 7.25px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(364.594019 266.941682)">contrast</text>
+   </g>
+  </g>
+  <g id="text_39">
+   <text style="font: 700 10px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="7.2" y="14.357812" transform="rotate(-0 7.2 14.357812)">Paired direction-resolved evidence adjudication</text>
+  </g>
+  <g id="text_40">
+   <text style="fill: #6f7782; font: 7px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="7.2" y="316.386" transform="rotate(-0 7.2 316.386)">Shared-signal support and direction are reported separately; PP4 and credible-set overlap do not establish a shared causal variant</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pe1c16fe3fa">
+   <rect x="56.448" y="39.24" width="195.029126" height="246.708"/>
+  </clipPath>
+  <clipPath id="pce0c103ce7">
+   <rect x="263.178874" y="39.24" width="195.029126" height="246.708"/>
+  </clipPath>
+ </defs>
+</svg>

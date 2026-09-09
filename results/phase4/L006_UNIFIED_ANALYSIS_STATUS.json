@@ -1,0 +1,20 @@
+{
+  "status": "PASS",
+  "n_common": 721,
+  "min_eigenvalue": -6.42e-10,
+  "AMD_converged": true,
+  "POAG_converged": true,
+  "frozen_parameters": {
+    "L": 10,
+    "coverage": 0.95,
+    "prior_variance": 50,
+    "max_iter": 100,
+    "tol": 0.001,
+    "estimate_residual_variance": false,
+    "p1": 0.0001,
+    "p2": 0.0001,
+    "p12": 1e-05
+  },
+  "reference": "1000G_Phase3_EUR_GRCh37",
+  "note": "Unified L006 analyses use the quantitative EUR matrix after Phase 4 QC PASS; no Phase 0-3.5 discovery rerun was performed."
+}

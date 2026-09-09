@@ -1,0 +1,20 @@
+{
+  "package": "0.0.0.9100",
+  "reference": "data/raw/phase3_reference/genref",
+  "traits": ["ADV_AMD_RESCUE_GRCh37", "POAG"],
+  "filter_maf_min": 0.005,
+  "correct_GC": true,
+  "correct_SO": false,
+  "n_iter": 100,
+  "seed": 20260905,
+  "smooth": true,
+  "adjust_monotonicity": true,
+  "fdr_max": 10,
+  "fdr_nbrk": 1001,
+  "fdr_thinfac": 10,
+  "cond_max": 3,
+  "cond_nbrk": 31,
+  "n_aligned": 1165632,
+  "n_conj_fdr_le_0.05": 44,
+  "output_recovered_from_uncompressed_temp": true
+}

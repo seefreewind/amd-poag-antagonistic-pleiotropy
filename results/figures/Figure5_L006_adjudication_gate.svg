@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="416.16pt" height="251.586783pt" viewBox="0 0 416.16 251.586783" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-09T10:39:07.247655</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 251.586783 
+L 416.16 251.586783 
+L 416.16 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 15.2352 46.827548 
+L 400.9248 46.827548 
+" clip-path="url(#p09fffd6d5e)" style="fill: none; stroke: #e0e5e8; stroke-width: 0.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 15.2352 75.752765 
+L 400.9248 75.752765 
+" clip-path="url(#p09fffd6d5e)" style="fill: none; stroke: #e0e5e8; stroke-width: 0.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 15.2352 104.677983 
+L 400.9248 104.677983 
+" clip-path="url(#p09fffd6d5e)" style="fill: none; stroke: #e0e5e8; stroke-width: 0.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 15.2352 133.6032 
+L 400.9248 133.6032 
+" clip-path="url(#p09fffd6d5e)" style="fill: none; stroke: #e0e5e8; stroke-width: 0.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 15.2352 162.528417 
+L 400.9248 162.528417 
+" clip-path="url(#p09fffd6d5e)" style="fill: none; stroke: #e0e5e8; stroke-width: 0.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 15.2352 191.453635 
+L 400.9248 191.453635 
+" clip-path="url(#p09fffd6d5e)" style="fill: none; stroke: #e0e5e8; stroke-width: 0.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_7">
+    <path d="M 15.2352 220.378852 
+L 400.9248 220.378852 
+" clip-path="url(#p09fffd6d5e)" style="fill: none; stroke: #e0e5e8; stroke-width: 0.6; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font: 700 11px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="15.2352" y="15.10625" transform="rotate(-0 15.2352 15.10625)">L006 adjudication gate</text>
+   </g>
+   <g id="text_2">
+    <text style="fill: #6f7782; font: 700 8px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="248.256" y="12.92625" transform="rotate(-0 248.256 12.92625)">Observed evidence</text>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="m42490f9826" d="M 0 5.244044 
+C 1.390737 5.244044 2.7247 4.691499 3.708099 3.708099 
+C 4.691499 2.7247 5.244044 1.390737 5.244044 0 
+C 5.244044 -1.390737 4.691499 -2.7247 3.708099 -3.708099 
+C 2.7247 -4.691499 1.390737 -5.244044 0 -5.244044 
+C -1.390737 -5.244044 -2.7247 -4.691499 -3.708099 -3.708099 
+C -4.691499 -2.7247 -5.244044 -1.390737 -5.244044 0 
+C -5.244044 1.390737 -4.691499 2.7247 -3.708099 3.708099 
+C -2.7247 4.691499 -1.390737 5.244044 0 5.244044 
+z
+" style="stroke: #4f8662"/>
+    </defs>
+    <g clip-path="url(#p09fffd6d5e)">
+     <use xlink:href="#m42490f9826" x="23.2704" y="40.464" style="fill: #4f8662; stroke: #4f8662"/>
+    </g>
+   </g>
+   <g id="text_3">
+    <text style="fill: #ffffff; font: 700 8px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle" x="23.2704" y="42.53775" transform="rotate(-0 23.2704 42.53775)">+</text>
+   </g>
+   <g id="text_4">
+    <text style="font: 8px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="39.3408" y="42.5365" transform="rotate(-0 39.3408 42.5365)">Opposite discovery direction</text>
+   </g>
+   <g id="text_5">
+    <text style="fill: #6f7782; font: 8px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="248.256" y="42.534" transform="rotate(-0 248.256 42.534)">3/3 target variants</text>
+   </g>
+   <g id="PathCollection_2">
+    <g clip-path="url(#p09fffd6d5e)">
+     <use xlink:href="#m42490f9826" x="23.2704" y="69.389217" style="fill: #4f8662; stroke: #4f8662"/>
+    </g>
+   </g>
+   <g id="text_6">
+    <text style="fill: #ffffff; font: 700 8px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle" x="23.2704" y="71.462967" transform="rotate(-0 23.2704 71.462967)">+</text>
+   </g>
+   <g id="text_7">
+    <text style="font: 8px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="39.3408" y="71.457342" transform="rotate(-0 39.3408 71.457342)">Quantitative EUR LD QC</text>
+   </g>
+   <g id="text_8">
+    <text style="fill: #6f7782; font: 8px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="248.256" y="71.457342" transform="rotate(-0 248.256 71.457342)">737/738; PSD PASS</text>
+   </g>
+   <g id="PathCollection_3">
+    <g clip-path="url(#p09fffd6d5e)">
+     <use xlink:href="#m42490f9826" x="23.2704" y="98.314435" style="fill: #4f8662; stroke: #4f8662"/>
+    </g>
+   </g>
+   <g id="text_9">
+    <text style="fill: #ffffff; font: 700 8px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle" x="23.2704" y="100.388185" transform="rotate(-0 23.2704 100.388185)">+</text>
+   </g>
+   <g id="text_10">
+    <text style="font: 8px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="39.3408" y="100.384435" transform="rotate(-0 39.3408 100.384435)">Unified SuSiE convergence</text>
+   </g>
+   <g id="text_11">
+    <text style="fill: #6f7782; font: 8px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="248.256" y="100.38256" transform="rotate(-0 248.256 100.38256)">AMD + POAG</text>
+   </g>
+   <g id="PathCollection_4">
+    <g clip-path="url(#p09fffd6d5e)">
+     <use xlink:href="#m42490f9826" x="23.2704" y="127.239652" style="fill: #4f8662; stroke: #4f8662"/>
+    </g>
+   </g>
+   <g id="text_12">
+    <text style="fill: #ffffff; font: 700 8px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle" x="23.2704" y="129.313402" transform="rotate(-0 23.2704 129.313402)">+</text>
+   </g>
+   <g id="text_13">
+    <text style="font: 8px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="39.3408" y="129.307777" transform="rotate(-0 39.3408 129.307777)">Unified coloc PP4</text>
+   </g>
+   <g id="text_14">
+    <text style="fill: #6f7782; font: 8px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="248.256" y="129.307777" transform="rotate(-0 248.256 129.307777)">0.9756</text>
+   </g>
+   <g id="PathCollection_5">
+    <g clip-path="url(#p09fffd6d5e)">
+     <use xlink:href="#m42490f9826" x="23.2704" y="156.16487" style="fill: #4f8662; stroke: #4f8662"/>
+    </g>
+   </g>
+   <g id="text_15">
+    <text style="fill: #ffffff; font: 700 8px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle" x="23.2704" y="158.23862" transform="rotate(-0 23.2704 158.23862)">+</text>
+   </g>
+   <g id="text_16">
+    <text style="font: 8px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="39.3408" y="158.23487" transform="rotate(-0 39.3408 158.23487)">Signal-level CS overlap</text>
+   </g>
+   <g id="text_17">
+    <text style="fill: #6f7782; font: 8px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="248.256" y="158.232995" transform="rotate(-0 248.256 158.232995)">n = 10</text>
+   </g>
+   <g id="PathCollection_6">
+    <defs>
+     <path id="mcf2ac339a8" d="M 0 5.244044 
+C 1.390737 5.244044 2.7247 4.691499 3.708099 3.708099 
+C 4.691499 2.7247 5.244044 1.390737 5.244044 0 
+C 5.244044 -1.390737 4.691499 -2.7247 3.708099 -3.708099 
+C 2.7247 -4.691499 1.390737 -5.244044 0 -5.244044 
+C -1.390737 -5.244044 -2.7247 -4.691499 -3.708099 -3.708099 
+C -4.691499 -2.7247 -5.244044 -1.390737 -5.244044 0 
+C -5.244044 1.390737 -4.691499 2.7247 -3.708099 3.708099 
+C -2.7247 4.691499 -1.390737 5.244044 0 5.244044 
+z
+" style="stroke: #b24c4c"/>
+    </defs>
+    <g clip-path="url(#p09fffd6d5e)">
+     <use xlink:href="#mcf2ac339a8" x="23.2704" y="185.090087" style="fill: #b24c4c; stroke: #b24c4c"/>
+    </g>
+   </g>
+   <g id="text_18">
+    <text style="fill: #ffffff; font: 700 8px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle" x="23.2704" y="187.163837" transform="rotate(-0 23.2704 187.163837)">x</text>
+   </g>
+   <g id="text_19">
+    <text style="font: 8px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="39.3408" y="187.158212" transform="rotate(-0 39.3408 187.158212)">LAVA local P</text>
+   </g>
+   <g id="text_20">
+    <text style="fill: #6f7782; font: 8px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="248.256" y="187.206962" transform="rotate(-0 248.256 187.206962)">0.0942; CI spans 0</text>
+   </g>
+   <g id="PathCollection_7">
+    <g clip-path="url(#p09fffd6d5e)">
+     <use xlink:href="#mcf2ac339a8" x="23.2704" y="214.015304" style="fill: #b24c4c; stroke: #b24c4c"/>
+    </g>
+   </g>
+   <g id="text_21">
+    <text style="fill: #ffffff; font: 700 8px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle" x="23.2704" y="216.089054" transform="rotate(-0 23.2704 216.089054)">x</text>
+   </g>
+   <g id="text_22">
+    <text style="font: 8px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="39.3408" y="216.083429" transform="rotate(-0 39.3408 216.083429)">Independent replication</text>
+   </g>
+   <g id="text_23">
+    <text style="fill: #6f7782; font: 8px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="248.256" y="216.083429" transform="rotate(-0 248.256 216.083429)">not available</text>
+   </g>
+   <g id="text_24">
+    <text style="fill: #2f6f8f; font: 8px 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="15.2352" y="234.841461" transform="rotate(-0 15.2352 234.841461)">Interpretation: TIER1 candidate antagonistic locus; local sensitivity and replication remain limitations.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p09fffd6d5e">
+   <rect x="7.2" y="11.538783" width="401.76" height="232.848"/>
+  </clipPath>
+ </defs>
+</svg>

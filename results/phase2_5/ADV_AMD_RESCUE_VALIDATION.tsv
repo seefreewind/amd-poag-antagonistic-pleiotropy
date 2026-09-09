@@ -1,0 +1,2 @@
+status	source_build	analysis_build	liftover_input_hm3	liftover_unique_mapped	liftover_unmapped	POAG_coordinate_match_fraction	EARLY_AMD_coordinate_match_fraction	ADV_AMD_RESCUE_h2	ADV_AMD_RESCUE_h2_se	POAG_h2	POAG_h2_se	rg_noMHC	rg_se	p_noMHC	frozen_rg
+PASS_CONDITIONAL	GRCh38	GRCh37	1186302	1185850	452	1.0	1.0	0.3458	0.124	0.0632	0.0048	-0.164	0.067	0.0143	-0.1798

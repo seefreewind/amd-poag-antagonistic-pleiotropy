@@ -1,0 +1,2 @@
+locus_id	window_basis	frozen_start_GRCh37	frozen_end_GRCh37	cs_min_BP_GRCh37	cs_max_BP_GRCh37	expanded_start_GRCh37	expanded_end_GRCh37	expansion_rule	reference_build	expanded_block_ids	n_expanded_reference_snps	n_expanded_amd_snps	n_expanded_poag_snps
+AMD_POAG_L006	frozen_locus_plus_500kb_and_credible_set_plus_250kb	28600711	29630300	28623364	29130300	28100711	30130300	min(frozen_start-500kb, CS_min-250kb); max(frozen_end+500kb, CS_max+250kb)	GRCh37	chr22.12;chr22.13	607	722	738

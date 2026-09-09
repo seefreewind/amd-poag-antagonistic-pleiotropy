@@ -1,0 +1,31 @@
+{
+  "status": "PASS_CONDITIONAL",
+  "source_dataset": "IAMDGC2_lateAMD_EUR_annotated",
+  "source_coordinate_build": "GRCh38",
+  "analysis_coordinate_build": "GRCh37",
+  "liftover_chain": "data/raw/phase2_5/hg38ToHg19.over.chain.gz",
+  "liftover_input_hm3": 1186302,
+  "liftover_unique_mapped": 1185850,
+  "liftover_unmapped": 452,
+  "liftover_unmapped_fraction": 0.00038101596389452264,
+  "coordinate_audit": {
+    "POAG_shared_snp_ids": 1184732,
+    "POAG_coordinate_match_fraction": 1.0,
+    "EARLY_AMD_shared_snp_ids": 1180834,
+    "EARLY_AMD_coordinate_match_fraction": 1.0
+  },
+  "ldsc_noMHC": {
+    "ADV_AMD_RESCUE_h2": 0.3458,
+    "ADV_AMD_RESCUE_h2_se": 0.124,
+    "POAG_h2": 0.0632,
+    "POAG_h2_se": 0.0048,
+    "rg_ADV_AMD_RESCUE_POAG": -0.164,
+    "rg_se": 0.067,
+    "rg_z": -2.449,
+    "rg_p": 0.0143,
+    "rg_intercept": 1.0585,
+    "rg_intercept_se": 0.0446
+  },
+  "frozen_phase0_2_rg": -0.1798,
+  "interpretation": "The rescued full-effect Advanced AMD signal is directionally consistent with the frozen signed-direction analysis and passes coordinate concordance after explicit GRCh38-to-GRCh37 liftover. The candidate is conditionally accepted for Phase 3; 452 unmapped HM3 variants and residual allele harmonization losses remain documented QC exclusions."
+}

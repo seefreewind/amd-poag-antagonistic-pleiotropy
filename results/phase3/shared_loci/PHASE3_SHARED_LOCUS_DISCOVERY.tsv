@@ -1,0 +1,8 @@
+locus_id	CHR	window_start_GRCh37	window_end_GRCh37	lead_SNP	lead_BP_GRCh37	lead_PLACO_P	lead_conjFDR	lead_direction_class	n_joint_discovery_variants	n_opposite_direction	n_concordant_direction	discovery_status
+AMD_POAG_L001	2	227585593	228587187	rs11884770	228086920	1.7020007456943501e-09	0.0054157529957332	opposite_direction	3	3	0	shared_discovery_only_requires_finemap_coloc
+AMD_POAG_L002	6	50303050	51405067	rs987237	50803050	1.22961595366432e-10	0.0059801023662073	opposite_direction	5	5	0	shared_discovery_only_requires_finemap_coloc
+AMD_POAG_L003	9	21497872	22625347	rs10811650	22067593	2.2250738585072e-308	0.0061857750557987	opposite_direction	24	24	0	shared_discovery_only_requires_finemap_coloc
+AMD_POAG_L004	14	60572875	61572875	rs10483727	61072875	3.1929786209502497e-22	0.0311039174054659	opposite_direction	1	1	0	shared_discovery_only_requires_finemap_coloc
+AMD_POAG_L005	19	44895619	45922946	rs2075650	45395619	6.94429392924009e-17	0.0110404066363962	concordant_direction	2	0	2	shared_discovery_only_requires_finemap_coloc
+AMD_POAG_L006	22	28600711	29630300	rs1547014	29100711	3.70994717070551e-09	0.0265711610057138	opposite_direction	3	3	0	shared_discovery_only_requires_finemap_coloc
+AMD_POAG_L007	22	32605227	33611247	rs5749498	33106947	1.27245196482725e-14	0.0089195669111503	concordant_direction	3	0	3	shared_discovery_only_requires_finemap_coloc

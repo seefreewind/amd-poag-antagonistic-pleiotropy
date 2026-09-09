@@ -1,0 +1,11 @@
+log	num_snps	h2_observed	h2_observed_se	h2_liability	h2_liability_se	mean_chisq	intercept	intercept_se	ratio	rg	rg_se	rg_z	rg_p	gencov_intercept	gencov_intercept_se	trait	condition
+results/phase1/logs/h2.ADV_AMD.full.log	1172447	0.3405	0.1171			1.1794	0.9481	0.0109								ADV_AMD	full
+results/phase1/logs/h2.ADV_AMD.noMHC.log	1172447	0.3405	0.1171			1.1794	0.9481	0.0109								ADV_AMD	noMHC
+results/phase1/logs/h2.EARLY_AMD.full.log	1169096	0.0354	0.0119			1.0681	0.9948	0.0078								EARLY_AMD	full
+results/phase1/logs/h2.EARLY_AMD.noMHC.log	1169096	0.0354	0.0119			1.0681	0.9948	0.0078								EARLY_AMD	noMHC
+results/phase1/logs/h2.POAG.full.log	1182853	0.0632	0.0048			1.2941	1.0316	0.0089	0.1075							POAG	full
+results/phase1/logs/h2.POAG.noMHC.log	1182853	0.0632	0.0048			1.2941	1.0316	0.0089	0.1075							POAG	noMHC
+results/phase1/logs/h2.POAG_IOP.full.log	1146425	0.1204	0.0072			1.3246	1.0326	0.0097	0.1005							POAG_IOP	full
+results/phase1/logs/h2.POAG_IOP.noMHC.log	1146425	0.1204	0.0072			1.3246	1.0326	0.0097	0.1005							POAG_IOP	noMHC
+results/phase1/logs/h2.POAG_nonIOP.full.log	1146425	0.0562	0.0059			1.1663	1.0333	0.0067	0.2001							POAG_nonIOP	full
+results/phase1/logs/h2.POAG_nonIOP.noMHC.log	1146425	0.0562	0.0059			1.1663	1.0333	0.0067	0.2001							POAG_nonIOP	noMHC

@@ -1,0 +1,2 @@
+input_rows	mapped_unique	unmapped	multi_mapped	no_mhc	unmapped_fraction	multi_mapped_fraction	status
+1186302	1185850	452	0	1182945	0.00038101596389452264	0.0	REVIEW_LIFTOVER_LOSS

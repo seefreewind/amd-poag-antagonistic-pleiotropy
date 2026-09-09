@@ -1,0 +1,20 @@
+# Source and restricted data intentionally excluded from this release.
+data/
+*.gz
+*.zip
+*.rds
+*.pgen
+*.pvar
+*.psam
+*.bed
+*.bim
+*.fam
+*.tiff
+
+# Local and operating-system files.
+._*
+.DS_Store
+__pycache__/
+.venv/
+docx_qa*/
+logs/

@@ -1,0 +1,3 @@
+trait	status	n_component_hm3	n_shared_with_parent_hm3	n_coordinate_matches	coordinate_match_fraction	parent_build	interpretation
+POAG_nonIOP	coordinate_match	1150599	1150599	1150599	1.0	GRCh37	GRCh37 inferred from parent-position concordance; archive header did not declare build
+POAG_IOP	coordinate_match	1150599	1150599	1150599	1.0	GRCh37	GRCh37 inferred from parent-position concordance; archive header did not declare build

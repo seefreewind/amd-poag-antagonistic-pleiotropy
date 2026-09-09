@@ -1,0 +1,8 @@
+locus	n_blocks	blocks	CS_crosses_boundary	lead_near_boundary	max_cross_block_r2	cross_block_quantitative_ld_available	rerun_required	final_status	note
+AMD_POAG_L001	1	chr2.204	NO_MULTI_BLOCK_STRUCTURE	FALSE		FALSE	FALSE	BLOCK_LEVEL_ONLY_SINGLE_BLOCK	Existing block-level result retained; no cross-block quantitative covariance was available
+AMD_POAG_L002	2	chr6.43;chr6.44	NOT_ASSESSABLE_FROM_INDEPENDENT_BLOCK_FITS	FALSE		FALSE	TRUE	BLOCK_LEVEL_ONLY_CROSS_BLOCK_NOT_VALIDATED	Existing block-level result retained; no cross-block quantitative covariance was available
+AMD_POAG_L003	2	chr9.28;chr9.29	NOT_ASSESSABLE_FROM_INDEPENDENT_BLOCK_FITS	FALSE		FALSE	TRUE	BLOCK_LEVEL_ONLY_CROSS_BLOCK_NOT_VALIDATED	Existing block-level result retained; no cross-block quantitative covariance was available
+AMD_POAG_L004	1	chr14.39	NO_MULTI_BLOCK_STRUCTURE	FALSE		FALSE	FALSE	BLOCK_LEVEL_ONLY_SINGLE_BLOCK	Existing block-level result retained; no cross-block quantitative covariance was available
+AMD_POAG_L005	3	chr19.44;chr19.45;chr19.46	NOT_ASSESSABLE_FROM_INDEPENDENT_BLOCK_FITS	FALSE		FALSE	TRUE	BLOCK_LEVEL_ONLY_CROSS_BLOCK_NOT_VALIDATED	Existing block-level result retained; no cross-block quantitative covariance was available
+AMD_POAG_L006	2	chr22.12;chr22.13	NOT_ASSESSABLE_FROM_INDEPENDENT_BLOCK_FITS	FALSE		FALSE	TRUE	AMBIGUOUS_CROSS_BLOCK_LD_UNRESOLVED	L006 strong block-level PP4 was not promoted because unified quantitative cross-block LD was unavailable
+AMD_POAG_L007	3	chr22.15;chr22.16;chr22.17	NOT_ASSESSABLE_FROM_INDEPENDENT_BLOCK_FITS	FALSE		FALSE	TRUE	UNRESOLVED_MISSING_CANDIDATE_LD	All three joint candidates are absent from dense HDLL and quantitative proxy r2 is unavailable

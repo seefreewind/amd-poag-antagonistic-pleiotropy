@@ -1,0 +1,7 @@
+{
+  "status": "ALL_LOCI_CROSS_BLOCK_AUDIT_COMPLETE",
+  "n_loci": 7,
+  "n_multi_block": 5,
+  "n_rerun_required": 5,
+  "note": "Cross-block r2 is unavailable for every multi-block locus; no block-diagonal approximation was treated as a unified LD matrix."
+}

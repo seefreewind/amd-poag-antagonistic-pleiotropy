@@ -1,0 +1,35 @@
+{
+  "status": "PASS",
+  "package": "LAVA",
+  "package_version": "0.1.5",
+  "random_seed": 20260909,
+  "source": "https://github.com/josefin-werme/LAVA",
+  "reference": "1000G_Phase3_EUR",
+  "build": "GRCh37",
+  "n_reference_samples": 503,
+  "phenotypes": ["Advanced AMD rescue", "overall POAG"],
+  "sample_overlap_file": "NOT_PROVIDED",
+  "loci": {
+    "L006": {
+      "n_snps": 721,
+      "K": 172,
+      "phenotypes": ["AMD", "POAG"],
+      "h2_obs": [0.0025, 0.0005],
+      "omega_cor": [
+        [1, -0.332],
+        [-0.332, 1]
+      ]
+    },
+    "L007": {
+      "n_snps": 705,
+      "K": 192,
+      "phenotypes": ["AMD", "POAG"],
+      "h2_obs": [0.0073, 0.0005],
+      "omega_cor": [
+        [1, 0.0672],
+        [0.0672, 1]
+      ]
+    }
+  },
+  "note": "LAVA was restricted to Advanced AMD x overall POAG at L006 and L007. No POAG components or other phenotype pairs were analysed."
+}

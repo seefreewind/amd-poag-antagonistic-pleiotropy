@@ -1,0 +1,10 @@
+{
+  "input_rows": 1186302,
+  "mapped_unique": 1185850,
+  "unmapped": 452,
+  "multi_mapped": 0,
+  "no_mhc": 1182945,
+  "unmapped_fraction": 0.00038101596389452264,
+  "multi_mapped_fraction": 0.0,
+  "status": "REVIEW_LIFTOVER_LOSS"
+}

@@ -1,0 +1,14 @@
+{
+  "status": "COMPLETE_CONSERVATIVE_TRIANGULATION",
+  "n_loci": 7,
+  "n_opposite_direction_loci": 5,
+  "n_strong_block_shared_signal": 1,
+  "n_suggestive_block_shared_signal": 0,
+  "strict_tier1_assigned": 0,
+  "reason_no_strict_tier1": "Dense LD was reconstructed block-wise and cross-block covariance was not imputed; L007 also has missing candidate membership.",
+  "next_required": [
+    "full-locus cross-block LD validation",
+    "shared credible-set confirmation",
+    "independent biological or statistical validation"
+  ]
+}

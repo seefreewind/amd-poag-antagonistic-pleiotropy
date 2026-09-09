@@ -1,0 +1,13 @@
+{
+  "status": "PHASE4_FINAL_TIER_TABLE_COMPLETE",
+  "phase3_5_table_preserved": true,
+  "counts": {
+    "TIER3": 4,
+    "CONCORDANT": 2,
+    "TIER1": 1
+  },
+  "primary_antagonistic_loci": [
+    "AMD_POAG_L006"
+  ],
+  "language_gate": "Use candidate antagonistic locus / opposite-effect shared signal; do not claim disease-wide confirmed antagonistic pleiotropy."
+}

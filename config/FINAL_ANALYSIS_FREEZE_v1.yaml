@@ -1,0 +1,78 @@
+freeze_status: FINAL_ANALYSIS_FREEZE_V1
+created: '2026-09-09'
+decision: CONDITIONAL_GO
+upstream_freezes_preserved:
+  - config/PHASE0_2_ANALYSIS_FREEZE.yaml
+  - config/PHASE3_ANALYSIS_FREEZE.yaml
+  - config/PHASE3_PRE_ADJUDICATION_FREEZE.yaml
+  - config/PHASE3_5_ANALYSIS_FREEZE.yaml
+phase4_scope:
+  loci:
+    L006:
+      window_GRCh37: chr22:28100711-30130300
+      quantitative_reference: 1000G_Phase3_EUR
+      reference_samples: 503
+      quantitative_ld_status: PASS_QUANTITATIVE_EUR_LD
+      coverage: 0.99864498645
+      max_cross_block_abs_r: 0.50923044834
+      unified_susie_coloc_status: PASS
+      unified_coloc_PP4: 0.975590102089367
+      signal_CS_overlap_n: 10
+      top_shared_variant: rs1547014
+      direction: OPPOSITE
+      LAVA_rho: -0.331961
+      LAVA_P: 0.0941787
+      final_tier: TIER1
+    L007:
+      window_GRCh37: chr22:32605227-33611247
+      quantitative_reference: 1000G_Phase3_EUR
+      reference_samples: 503
+      quantitative_ld_status: PASS_QUANTITATIVE_EUR_LD
+      coverage: 0.9958506224
+      direct_candidates: 3
+      unified_susie_coloc_status: PASS
+      unified_coloc_PP4: 0.967815315878016
+      signal_CS_overlap_n: 3
+      top_shared_variant: rs5749498
+      direction: CONCORDANT
+      LAVA_rho: 0.0671874
+      LAVA_P: 0.639564
+      final_tier: CONCORDANT
+  lava:
+    package: LAVA_0.1.5
+    reference: 1000G_Phase3_EUR
+    explicit_sample_overlap_matrix: false
+    random_seed: 20260909
+    phenotypes: Advanced_AMD_rescue_x_overall_POAG_only
+  no_rerun:
+    - Phase 0-3.5
+    - genome-wide cFDR
+    - genome-wide PLACO
+    - discovery SuSiE/coloc
+    - single-cell/multiome/eQTL/TWAS/MR/drug-target/pathway expansion
+language_gate:
+  allowed:
+    - negative genome-wide genetic correlation
+    - opposing genetic architecture
+    - candidate antagonistic locus
+    - candidate opposite-effect shared signal
+  disallowed:
+    - confirmed antagonistic pleiotropy
+    - proven shared causal variant
+    - causal mechanism
+    - clinical utility
+    - therapeutic target
+software:
+  R: '4.4.x'
+  susieR: '0.14.2'
+  coloc: '5.2.3'
+  LAVA: '0.1.5'
+  LAVA_source_commit: e729a245f7b6923967a96804fbf5246eadf2d6c6
+  plink2: '2.0.0-a.7.3 M1 (8 Aug 2026)'
+artifact_sha256:
+  results/phase4/L006_QUANT_LD_QC.json: 6dfea3775dd9398cf6685fd231b4e28ad0db40c4c7428ec922d77a40f4966747
+  results/phase4/L007_QUANT_LD_QC.json: 5851f744cea727b66d2c2a2cd229a179090eeb9d8e1c4861922cee7261ce2c8e
+  results/phase4/L006_UNIFIED_COLOC.tsv: 0dd8b0a89e91651977a21b61507fb7c8212b47338d82217f41b9777624021d6c
+  results/phase4/L007_UNIFIED_COLOC.tsv: 02a8c83ab9c5dcf425b2dab97f39631a8d282205804672ea1f4aac703823085d
+  results/phase4/lava/LAVA_BIVARIATE.tsv: 65f3a8706eae28cc6015af7357f1b053970d3fd904860d0fece18166139704c7
+  results/phase4/FINAL_ANTAGONISTIC_TIER_TABLE_PHASE4.tsv: 17d30cbacdd67e58c950560fb5248bd98f08cefef7da2d9f64c1b83d3a7c4171

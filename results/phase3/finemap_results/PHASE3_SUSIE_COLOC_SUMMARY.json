@@ -1,0 +1,11 @@
+{
+  "status": "COMPLETE_WITH_EXCLUDED_BLOCKS",
+  "n_blocks_attempted": 11,
+  "n_blocks_pass": 10,
+  "n_blocks_nonconverged": 0,
+  "n_blocks_error": 1,
+  "n_blocks_excluded_small_common": 1,
+  "pp4_strong_blocks": 1,
+  "pp4_suggestive_blocks": 1,
+  "note": "Block-level SuSiE/coloc only. Cross-block covariance was not imputed; L007 was excluded because 3 joint candidates are absent from dense LD."
+}

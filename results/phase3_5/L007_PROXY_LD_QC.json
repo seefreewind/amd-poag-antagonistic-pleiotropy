@@ -1,0 +1,12 @@
+{
+  "locus_id": "AMD_POAG_L007",
+  "n_missing_variants": 3,
+  "n_exact_dense_ld": 0,
+  "n_with_binary_genref_link": 3,
+  "n_with_quantitative_proxy_r2": 0,
+  "proxy_r2_available": false,
+  "LD_QC_status": "UNRESOLVED_QUANTITATIVE_PROXY_R2_UNAVAILABLE",
+  "fine_mapping_rescue": "NOT_RUN",
+  "reason": "All three L007 joint candidates are absent from the dense HDLL BIM. Physical-nearest and binary-genref links are reported for audit only; no r2 proxy is imputed.",
+  "manifest_missing_joint_candidates": "rs5749498;rs756481;rs12170368"
+}

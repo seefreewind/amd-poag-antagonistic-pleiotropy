@@ -1,0 +1,4 @@
+candidate	candidate_present	proxy	r	r2	distance	allele_relation	reference	interpretation
+rs5749498	True	22:33106947:G:T	1.0	1.0	0	AMD:swapped;POAG:swapped	1000G_Phase3_EUR	DIRECT_REFERENCE_VARIANT
+rs756481	True	22:33105227:A:G	1.0	1.0	0	AMD:swapped;POAG:exact	1000G_Phase3_EUR	DIRECT_REFERENCE_VARIANT
+rs12170368	True	22:33111247:C:T	1.0	1.0	0	AMD:swapped;POAG:swapped	1000G_Phase3_EUR	DIRECT_REFERENCE_VARIANT

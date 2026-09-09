@@ -1,0 +1,9 @@
+{
+  "status": "PHASE3_5_TIER_FINALIZATION_COMPLETE",
+  "n_tier1": 0,
+  "n_tier2": 1,
+  "n_tier3": 4,
+  "n_concordant": 1,
+  "n_unresolved": 1,
+  "primary_tier1_or_tier2_loci": "AMD_POAG_L006"
+}
