@@ -4,7 +4,7 @@
 
 **CONDITIONAL READY**
 
-The scientific manuscript package is aligned with the frozen analysis and the Human Genetics Research Article structure. Author order, affiliations, correspondence, funding, competing interests, acknowledgements and CRediT contributions have been completed. Submission still requires author scientific confirmation and the optional Zenodo identifier.
+The scientific manuscript package is aligned with the frozen analysis and the Human Genetics Research Article structure. Author order, affiliations, correspondence, funding, competing interests, acknowledgements, CRediT contributions and the Zenodo DOI have been completed. Submission still requires author scientific confirmation.
 
 ## Readiness audit
 
@@ -24,7 +24,7 @@ The scientific manuscript package is aligned with the frozen analysis and the Hu
 | Main figures | READY pending author visual sign-off | Figures 1–6 available; Figure 5 is the paired L006/L007 adjudication figure |
 | Main tables | READY pending author scientific sign-off | Tables 1–3 assembled with human-facing evidence categories |
 | Word manuscript | PASS pending author sign-off | `HUMAN_GENETICS_MANUSCRIPT_V1.docx` generated; 18 rendered pages visually checked; Figure 6 and its caption kept together |
-| Reproducibility repository | PASS | Public repository available at https://github.com/seefreewind/amd-poag-antagonistic-pleiotropy; 104 files and approximately 42 MB uploaded |
+| Reproducibility repository | PASS | Public repository available at https://github.com/seefreewind/amd-poag-antagonistic-pleiotropy and archived at https://doi.org/10.5281/zenodo.22689068; 104 files and approximately 42 MB uploaded |
 | Supplementary structure | READY | Online Resources 1–18 mapped without new analyses |
 | Author and affiliation metadata | PASS | Da Lin¹, Ying Chen², Yue Liu² and Yu Zhang¹; Yu Zhang is corresponding author with email and ORCID supplied |
 | Funding | PASS | No funding received |
@@ -37,8 +37,7 @@ The scientific manuscript package is aligned with the frozen analysis and the Hu
 
 1. Confirm the drafted CRediT contribution assignments.
 2. Confirm the ethics/source-study and consent-for-publication wording.
-3. Add the Zenodo DOI/accession when available.
-4. Confirm the Advanced AMD rescue provenance, phenotype definitions and sample-overlap wording.
+3. Confirm the Advanced AMD rescue provenance, phenotype definitions and sample-overlap wording.
 
 ## Recommended next action
 

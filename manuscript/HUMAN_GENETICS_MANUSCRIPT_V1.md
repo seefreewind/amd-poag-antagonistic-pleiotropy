@@ -96,7 +96,7 @@ The signal-level summary was used because both loci could contain more than one 
 
 LAVA version 0.1.5 was used only for L006 and L007 with the Advanced AMD rescue and overall POAG summary statistics. The reference was 1000 Genomes Phase 3 EUR, and the fixed seed was 20260909. No explicit sample-overlap matrix was supplied. LAVA was interpreted as local-correlation sensitivity using the same summary statistics, not as independent replication.
 
-Analyses were performed with R 4.4.x, Python 3.9.6, `susieR` 0.14.2, `coloc` 5.2.3, LAVA 0.1.5 and PLINK2 2.0.0-a.7.3 M1. Phase 4 outputs, scripts, command records, frozen configurations and checksums are retained in the project directory. The reproducibility repository is publicly available at https://github.com/seefreewind/amd-poag-antagonistic-pleiotropy; a release DOI or accession can be added if required by the journal.
+Analyses were performed with R 4.4.x, Python 3.9.6, `susieR` 0.14.2, `coloc` 5.2.3, LAVA 0.1.5 and PLINK2 2.0.0-a.7.3 M1. Phase 4 outputs, scripts, command records, frozen configurations and checksums are retained in the project directory. The reproducibility repository is publicly available at https://github.com/seefreewind/amd-poag-antagonistic-pleiotropy and archived on Zenodo at https://doi.org/10.5281/zenodo.22689068.
 The final artifacts include quantitative-LD QC JSON files, unified coloc tables, LAVA output, the final evidence table, figure source data and the deterministic figure-generation script. SHA256 hashes are recorded in the supplementary methods and in the final freeze. These records allow the manuscript values to be checked without rerunning the upstream discovery analyses.
 
 ## Results
@@ -254,8 +254,8 @@ Not applicable. No individual-level identifiable data, participant images or ind
 
 ### Data Availability
 
-GWAS source metadata, sample-size information, access links and checksums are documented in `metadata/GWAS_MANIFEST.tsv`. Frozen Phase 4 quantitative-LD QC, unified fine-mapping outputs, LAVA outputs, figure source data and final evidence tables are retained under `results/phase4/` and `results/figures/`. Access to source summary statistics and reference data remains subject to the terms of the original data providers. The reproducibility repository is publicly available at https://github.com/seefreewind/amd-poag-antagonistic-pleiotropy; a release DOI or accession can be added if required by the journal.
+GWAS source metadata, sample-size information, access links and checksums are documented in `metadata/GWAS_MANIFEST.tsv`. Frozen Phase 4 quantitative-LD QC, unified fine-mapping outputs, LAVA outputs, figure source data and final evidence tables are retained under `results/phase4/` and `results/figures/`. Access to source summary statistics and reference data remains subject to the terms of the original data providers. The reproducibility repository is publicly available at https://github.com/seefreewind/amd-poag-antagonistic-pleiotropy and its archived release is available on Zenodo at https://doi.org/10.5281/zenodo.22689068.
 
 ### Code Availability
 
-The analysis scripts, frozen configurations, compact derived results and figure-generation scripts are available in the public repository https://github.com/seefreewind/amd-poag-antagonistic-pleiotropy. Zenodo DOI/accession: [TO BE ADDED].
+The analysis scripts, frozen configurations, compact derived results and figure-generation scripts are available in the public repository https://github.com/seefreewind/amd-poag-antagonistic-pleiotropy and its archived Zenodo release (https://doi.org/10.5281/zenodo.22689068).

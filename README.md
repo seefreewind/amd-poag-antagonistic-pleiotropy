@@ -38,6 +38,8 @@ These statements are constrained by `config/FINAL_ANALYSIS_FREEZE_v1.yaml` and `
 
 The summary outputs and figures can be inspected without downloading the excluded source datasets. Full re-execution requires the cited source summary statistics, compatible software versions and the external reference resources described in the metadata and supplementary methods.
 
+The archived reproducibility release is available on Zenodo: [DOI 10.5281/zenodo.22689068](https://doi.org/10.5281/zenodo.22689068).
+
 ## License and use
 
 The source datasets retain the licences and access conditions of their original providers. Code and derived summaries are shared for research audit and reproducibility; a project-level software/data licence should be added by the authors before public release.
