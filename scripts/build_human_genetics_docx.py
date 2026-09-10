@@ -339,6 +339,24 @@ def build() -> None:
             p = doc.add_paragraph(style="Body Text")
             p.paragraph_format.first_line_indent = Inches(0)
             add_run_markup(p, text, size=10)
+        elif text.startswith("**Authors:**"):
+            p = doc.add_paragraph()
+            p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+            p.paragraph_format.space_before = Pt(2)
+            p.paragraph_format.space_after = Pt(6)
+            set_keep(p, keep_next=True)
+            add_run_markup(p, text, size=11)
+        elif text.startswith("**Affiliation 1:**") or text.startswith("**Affiliation 2:**"):
+            p = doc.add_paragraph()
+            p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+            p.paragraph_format.space_after = Pt(3)
+            set_keep(p, keep_next=True)
+            add_run_markup(p, text, size=9.5)
+        elif text.startswith("**Corresponding author:**"):
+            p = doc.add_paragraph()
+            p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+            p.paragraph_format.space_after = Pt(12)
+            add_run_markup(p, text, size=9.5)
         elif text.startswith("[AUTHOR INPUT") or text.startswith("[AUTHOR CONFIRMATION") or text.startswith("[CODE AVAILABILITY"):
             p = add_body_paragraph(doc, text, style="Body Text", size=10)
             p.paragraph_format.first_line_indent = Inches(0)
@@ -364,6 +382,7 @@ def build() -> None:
             flush()
             p = doc.add_paragraph(style="Title")
             remove_paragraph_borders(p)
+            set_keep(p, keep_next=True)
             add_run_markup(p, line[2:].strip(), size=16, bold=True)
             i += 1
             continue

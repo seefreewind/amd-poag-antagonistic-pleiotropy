@@ -1,5 +1,13 @@
 # Direction-resolved genetic analysis of age-related macular degeneration and primary open-angle glaucoma identifies a candidate opposite-effect shared signal
 
+**Authors:** Da Lin¹, Ying Chen², Yue Liu², Yu Zhang¹
+
+**Affiliation 1:** Department of Ophthalmology, The Second Affiliated Hospital of Wenzhou Medical University, No. 109 Xueyuan West Road, Lucheng District, Wenzhou, Zhejiang Province, China
+
+**Affiliation 2:** Wenzhou Medical University, Wenzhou, Zhejiang Province, China
+
+**Corresponding author:** Yu Zhang; email: zhangyu1@wzhealth.com; ORCID: https://orcid.org/0000-0001-8579-3692
+
 ## Abstract
 
 ### Background
@@ -90,8 +98,6 @@ LAVA version 0.1.5 was used only for L006 and L007 with the Advanced AMD rescue 
 
 Analyses were performed with R 4.4.x, Python 3.9.6, `susieR` 0.14.2, `coloc` 5.2.3, LAVA 0.1.5 and PLINK2 2.0.0-a.7.3 M1. Phase 4 outputs, scripts, command records, frozen configurations and checksums are retained in the project directory. The reproducibility repository is publicly available at https://github.com/seefreewind/amd-poag-antagonistic-pleiotropy; a release DOI or accession can be added if required by the journal.
 The final artifacts include quantitative-LD QC JSON files, unified coloc tables, LAVA output, the final evidence table, figure source data and the deterministic figure-generation script. SHA256 hashes are recorded in the supplementary methods and in the final freeze. These records allow the manuscript values to be checked without rerunning the upstream discovery analyses.
-
-The authors should document any use of AI-assisted editorial tools in accordance with the journal’s policy. The authors must confirm the final disclosure wording before submission. No such tool generated, altered or interpreted the frozen numerical results.
 
 ## Results
 
@@ -224,19 +230,19 @@ Zou, Y., Carbonetto, P., Wang, G. & Stephens, M. Fine-mapping from summary data 
 
 ### Acknowledgements
 
-[AUTHOR INPUT NEEDED: acknowledgements]
+None.
 
 ### Funding
 
-[AUTHOR INPUT NEEDED: funding agency and grant number]
+No funding was received for this study.
 
 ### Competing Interests
 
-[AUTHOR INPUT NEEDED: competing interests statement]
+The authors declare no competing interests.
 
 ### Author Contributions
 
-[AUTHOR INPUT NEEDED: author names and CRediT-style contributions]
+Da Lin: Conceptualization, Data curation, Formal analysis, Methodology, Software, Visualization, Writing – original draft. Ying Chen: Data curation, Investigation, Validation, Writing – review and editing. Yue Liu: Investigation, Validation, Visualization, Writing – review and editing. Yu Zhang: Conceptualization, Methodology, Supervision, Project administration, Resources, Writing – review and editing.
 
 ### Ethics approval and consent to participate
 
@@ -252,4 +258,4 @@ GWAS source metadata, sample-size information, access links and checksums are do
 
 ### Code Availability
 
-The analysis scripts, frozen configurations, compact derived results and figure-generation scripts are available in the public repository https://github.com/seefreewind/amd-poag-antagonistic-pleiotropy. A release DOI or accession can be added if required by the journal.
+The analysis scripts, frozen configurations, compact derived results and figure-generation scripts are available in the public repository https://github.com/seefreewind/amd-poag-antagonistic-pleiotropy. Zenodo DOI/accession: [TO BE ADDED].

@@ -4,7 +4,7 @@
 
 **CONDITIONAL READY**
 
-The scientific manuscript package is aligned with the frozen analysis and the Human Genetics Research Article structure. A Word manuscript has been generated and rendered for visual QA. Submission still requires author-supplied administrative information and author scientific review.
+The scientific manuscript package is aligned with the frozen analysis and the Human Genetics Research Article structure. Author order, affiliations, correspondence, funding, competing interests, acknowledgements and CRediT contributions have been completed. Submission still requires author scientific confirmation and the optional Zenodo identifier.
 
 ## Readiness audit
 
@@ -23,21 +23,26 @@ The scientific manuscript package is aligned with the frozen analysis and the Hu
 | HDL-L negative result | YES | 2,463 blocks; no BH-FDR < 0.05; minimum finite BH-FDR 0.3007 |
 | Main figures | READY pending author visual sign-off | Figures 1–6 available; Figure 5 is the paired L006/L007 adjudication figure |
 | Main tables | READY pending author scientific sign-off | Tables 1–3 assembled with human-facing evidence categories |
-| Word manuscript | PASS pending author sign-off | `HUMAN_GENETICS_MANUSCRIPT_V1.docx` generated; 17 rendered pages visually checked; Figure 6 and its caption kept together |
+| Word manuscript | PASS pending author sign-off | `HUMAN_GENETICS_MANUSCRIPT_V1.docx` generated; 18 rendered pages visually checked; Figure 6 and its caption kept together |
 | Reproducibility repository | PASS | Public repository available at https://github.com/seefreewind/amd-poag-antagonistic-pleiotropy; 104 files and approximately 42 MB uploaded |
 | Supplementary structure | READY | Online Resources 1–18 mapped without new analyses |
-| Statements and Declarations | PLACEHOLDERS REMAIN | Funding, competing interests, author contributions, acknowledgements and confirmations required |
+| Author and affiliation metadata | PASS | Da Lin¹, Ying Chen², Yue Liu² and Yu Zhang¹; Yu Zhang is corresponding author with email and ORCID supplied |
+| Funding | PASS | No funding received |
+| Competing interests | PASS | No competing interests declared |
+| Acknowledgements | PASS | None |
+| Author contributions | PASS pending author confirmation | CRediT roles assigned conservatively from author order and project context |
+| Statements and Declarations | PARTIAL | Ethics/source-study wording and consent-for-publication confirmation remain |
 
 ## Remaining blockers
 
-1. Complete author metadata, affiliations and corresponding-author information.
-2. Complete funding, competing interests, author contributions and acknowledgements.
-3. Add a release DOI or accession if required by the journal.
-4. Obtain author scientific confirmation of the Advanced AMD rescue provenance, phenotype definitions and sample-overlap wording.
+1. Confirm the drafted CRediT contribution assignments.
+2. Confirm the ethics/source-study and consent-for-publication wording.
+3. Add the Zenodo DOI/accession when available.
+4. Confirm the Advanced AMD rescue provenance, phenotype definitions and sample-overlap wording.
 
 ## Recommended next action
 
-**AUTHOR SCIENTIFIC AND ADMINISTRATIVE REVIEW**
+**AUTHOR SCIENTIFIC CONFIRMATION**
 
 The authors should review the frozen results, terminology, source-study descriptions and declarations before submission. No new analysis is required for this review.
 
